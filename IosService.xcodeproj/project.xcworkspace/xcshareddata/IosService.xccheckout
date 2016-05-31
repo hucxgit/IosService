@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7AE27FC-38B0-4FBC-96F5-6BAAD374A63F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IosService</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9922C77BCC746587FA554E31437D5165DAD645D0</key>
+		<string>ssh://gitlab.captain.bengjiujie.com:1022/iOS/IosService.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IosService/IosService.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9922C77BCC746587FA554E31437D5165DAD645D0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://gitlab.captain.bengjiujie.com:1022/iOS/IosService.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9922C77BCC746587FA554E31437D5165DAD645D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9922C77BCC746587FA554E31437D5165DAD645D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IosService</string>
+		</dict>
+	</array>
+</dict>
+</plist>
